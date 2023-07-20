@@ -11,7 +11,7 @@ import ShowMeta from './components/ShowMeta.vue'
   <RouterView />
   <hr>
   <ShowMeta />
-  <a href="https://github.com/skirtles-code/vue-3-meta-tags-example" target="_blank" class="github-link" title="View GitHub repository">
+  <a href="https://github.com/skirtles-code/vue-3-meta-tags-example/tree/build" target="_blank" class="github-link" title="View GitHub repository">
     <img src="./assets/github-mark.svg">
   </a>
 </template>

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 105,
+    "name": "Microwave oven",
+    "description": "Rapid installation"
+  },
+  {
+    "id": 297,
+    "name": "Custom kitchen",
+    "description": "Delivered straight to your door"
+  },
+  {
+    "id": 514,
+    "name": "Refrigerator",
+    "description": "Moving fast, get them while they're hot!"
+  },
+  {
+    "id": 712,
+    "name": "Colour TV",
+    "description": "Ideal for watching MTV"
+  }
+]

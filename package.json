@@ -1,0 +1,21 @@
+{
+  "name": "@skirtle/vue-3-meta-tags-example",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Example of dynamic <meta> tags",
+  "author": "skirtle",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}

@@ -11,3 +11,9 @@ This repository contains three branches:
 - [build](https://github.com/skirtles-code/vue-3-meta-tags-example/tree/build) - A branch that creates multiple copies of `index.html` as part of the build, each with its own `<meta>` tags.
 
 The approaches shown in the `runtime` and `build` branches are independent, illustrating two different ways to solve the same problem.
+
+---
+
+You are currently viewing the **base** branch.
+
+You probably want to run one of the other two branches, as this branch does not add any dynamic `<meta>` tags.
